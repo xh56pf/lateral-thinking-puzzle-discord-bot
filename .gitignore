@@ -1,0 +1,14 @@
+# Virtual environments & uv cache
+.venv/
+venv/
+.lock
+CACHEDIR.TAG
+
+# Python byte-code & build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Secrets
+.env
+*.env

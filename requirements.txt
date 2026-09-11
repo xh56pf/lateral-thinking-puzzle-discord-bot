@@ -1,0 +1,4 @@
+discord.py>=2.3.2
+google-genai>=0.1.1
+mcp>=1.0.0
+python-dotenv>=1.0.0
