@@ -40,6 +40,9 @@ DiscordUser["Discord Players"] <-->|"Gateway Events (discord.py)"| BotEngine["Bo
 
 
 ## Command Reference
-!list : Queries the MCP server for all cataloged puzzle titles and summaries 
-!start <title> : Initializes a new game session with bilingual surface setup.
-!stop : Ends the active session, prints final standings, and clears channel state.
+!list : Queries the MCP server for all cataloged puzzle titles and summaries  
+
+!start <title> : Initializes a new game session with bilingual surface setup  
+
+!stop : Ends the active session, prints final standings, and clears channel state  
+
